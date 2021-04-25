@@ -1,0 +1,42 @@
+{
+  "files": {
+    "static/js/0.13a80c4b.chunk.js": "/kyupid-locale/static/js/0.13a80c4b.chunk.js",
+    "static/js/0.13a80c4b.chunk.js.map": "/kyupid-locale/static/js/0.13a80c4b.chunk.js.map",
+    "static/css/1.d9086b4a.chunk.css": "/kyupid-locale/static/css/1.d9086b4a.chunk.css",
+    "static/js/1.a8a02aea.chunk.js": "/kyupid-locale/static/js/1.a8a02aea.chunk.js",
+    "static/js/1.a8a02aea.chunk.js.map": "/kyupid-locale/static/js/1.a8a02aea.chunk.js.map",
+    "main.css": "/kyupid-locale/static/css/main.77e65c2a.chunk.css",
+    "main.js": "/kyupid-locale/static/js/main.893c7890.chunk.js",
+    "main.js.map": "/kyupid-locale/static/js/main.893c7890.chunk.js.map",
+    "runtime-main.js": "/kyupid-locale/static/js/runtime-main.71213ec9.js",
+    "runtime-main.js.map": "/kyupid-locale/static/js/runtime-main.71213ec9.js.map",
+    "static/css/4.4c97ca4f.chunk.css": "/kyupid-locale/static/css/4.4c97ca4f.chunk.css",
+    "static/js/4.5bbbe50a.chunk.js": "/kyupid-locale/static/js/4.5bbbe50a.chunk.js",
+    "static/js/4.5bbbe50a.chunk.js.map": "/kyupid-locale/static/js/4.5bbbe50a.chunk.js.map",
+    "static/js/5.d9efabf1.chunk.js": "/kyupid-locale/static/js/5.d9efabf1.chunk.js",
+    "static/js/5.d9efabf1.chunk.js.map": "/kyupid-locale/static/js/5.d9efabf1.chunk.js.map",
+    "static/js/6.1c6bc3c6.chunk.js": "/kyupid-locale/static/js/6.1c6bc3c6.chunk.js",
+    "static/js/6.1c6bc3c6.chunk.js.map": "/kyupid-locale/static/js/6.1c6bc3c6.chunk.js.map",
+    "static/js/7.98905b3c.chunk.js": "/kyupid-locale/static/js/7.98905b3c.chunk.js",
+    "static/js/7.98905b3c.chunk.js.map": "/kyupid-locale/static/js/7.98905b3c.chunk.js.map",
+    "static/js/8.995e3fbe.chunk.js": "/kyupid-locale/static/js/8.995e3fbe.chunk.js",
+    "static/js/8.995e3fbe.chunk.js.map": "/kyupid-locale/static/js/8.995e3fbe.chunk.js.map",
+    "static/js/9.498de688.chunk.js": "/kyupid-locale/static/js/9.498de688.chunk.js",
+    "static/js/9.498de688.chunk.js.map": "/kyupid-locale/static/js/9.498de688.chunk.js.map",
+    "static/js/10.abed2781.chunk.js": "/kyupid-locale/static/js/10.abed2781.chunk.js",
+    "static/js/10.abed2781.chunk.js.map": "/kyupid-locale/static/js/10.abed2781.chunk.js.map",
+    "index.html": "/kyupid-locale/index.html",
+    "static/css/1.d9086b4a.chunk.css.map": "/kyupid-locale/static/css/1.d9086b4a.chunk.css.map",
+    "static/css/4.4c97ca4f.chunk.css.map": "/kyupid-locale/static/css/4.4c97ca4f.chunk.css.map",
+    "static/css/main.77e65c2a.chunk.css.map": "/kyupid-locale/static/css/main.77e65c2a.chunk.css.map",
+    "static/js/1.a8a02aea.chunk.js.LICENSE.txt": "/kyupid-locale/static/js/1.a8a02aea.chunk.js.LICENSE.txt",
+    "static/js/4.5bbbe50a.chunk.js.LICENSE.txt": "/kyupid-locale/static/js/4.5bbbe50a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71213ec9.js",
+    "static/css/4.4c97ca4f.chunk.css",
+    "static/js/4.5bbbe50a.chunk.js",
+    "static/css/main.77e65c2a.chunk.css",
+    "static/js/main.893c7890.chunk.js"
+  ]
+}
