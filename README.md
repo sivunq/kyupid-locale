@@ -1,0 +1,1 @@
+# kyupid-locale.ai
