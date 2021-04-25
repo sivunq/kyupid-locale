@@ -6,8 +6,8 @@
     "static/js/1.a8a02aea.chunk.js": "/kyupid-locale/static/js/1.a8a02aea.chunk.js",
     "static/js/1.a8a02aea.chunk.js.map": "/kyupid-locale/static/js/1.a8a02aea.chunk.js.map",
     "main.css": "/kyupid-locale/static/css/main.77e65c2a.chunk.css",
-    "main.js": "/kyupid-locale/static/js/main.68b0912c.chunk.js",
-    "main.js.map": "/kyupid-locale/static/js/main.68b0912c.chunk.js.map",
+    "main.js": "/kyupid-locale/static/js/main.d26810f2.chunk.js",
+    "main.js.map": "/kyupid-locale/static/js/main.d26810f2.chunk.js.map",
     "runtime-main.js": "/kyupid-locale/static/js/runtime-main.71213ec9.js",
     "runtime-main.js.map": "/kyupid-locale/static/js/runtime-main.71213ec9.js.map",
     "static/css/4.4c97ca4f.chunk.css": "/kyupid-locale/static/css/4.4c97ca4f.chunk.css",
@@ -37,6 +37,6 @@
     "static/css/4.4c97ca4f.chunk.css",
     "static/js/4.5bbbe50a.chunk.js",
     "static/css/main.77e65c2a.chunk.css",
-    "static/js/main.68b0912c.chunk.js"
+    "static/js/main.d26810f2.chunk.js"
   ]
 }
